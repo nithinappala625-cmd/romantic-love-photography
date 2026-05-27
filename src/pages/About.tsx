@@ -6,11 +6,11 @@ import './About.css';
 
 const team = [
   {
-    name: 'Romantic Love Photography',
-    role: 'Luxury Photography & Cinematic Studio · Secunderabad',
-    bio: 'A decade of passion, artistry, and an obsessive dedication to crafting visual masterpieces. Every frame we capture is a timeless story of love, life, and legacy — told with elegance.',
-    img: '/portfolio/prewedding/DSC09046A.jpg',
-  },
+    name: 'SIRIGIRI SRIKANTH',
+    role: 'Lead Photographer & Visionary',
+    bio: 'Dedicated to capturing moments with an artistic eye and a passion for storytelling. Every frame is a timeless story of love, life, and legacy — told with elegance.',
+    img: '/srikanth.jpg',
+  }
 ];
 
 const milestones = [
@@ -159,7 +159,7 @@ const About = () => {
             variants={fadeUp}
           >
             <span className="section-label">Our Studio</span>
-            <h2 className="section-title">The <em>Creative Vision</em></h2>
+            <h2 className="section-title">Our <em>Team</em></h2>
           </motion.div>
 
           <div className="team-solo-wrap">
