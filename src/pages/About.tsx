@@ -9,7 +9,7 @@ const team = [
     name: 'SIRIGIRI SRIKANTH',
     role: 'Lead Photographer & Visionary',
     bio: 'Dedicated to capturing moments with an artistic eye and a passion for storytelling. Every frame is a timeless story of love, life, and legacy — told with elegance.',
-    img: '/portfolio/prewedding/DSC00898A.jpg',
+    img: '/srikanth.jpg',
   }
 ];
 
