@@ -9,7 +9,7 @@ const team = [
     name: 'SIRIGIRI SRIKANTH',
     role: 'Lead Photographer & Visionary',
     bio: 'Dedicated to capturing moments with an artistic eye and a passion for storytelling. Every frame is a timeless story of love, life, and legacy — told with elegance.',
-    img: '/srikanth.jpg',
+    img: '/portfolio/prewedding/DSC00898A.jpg',
   }
 ];
 
@@ -39,7 +39,7 @@ const About = () => {
       {/* ====== HERO ====== */}
       <section className="about-hero">
         <div className="about-hero-bg">
-          <img src="https://images.unsplash.com/photo-1554048667-1fa99f2c161f?auto=format&fit=crop&q=80&w=2000" alt="About Hero" />
+          <img src="/portfolio/prewedding/001.jpg" alt="About Hero" />
           <div className="about-hero-overlay" />
         </div>
         <div className="container">
@@ -71,7 +71,7 @@ const About = () => {
               viewport={{ once: true }}
               transition={{ duration: 1, ease: [0.23, 1, 0.32, 1] }}
             >
-              <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=800" alt="Behind the lens" />
+              <img src="/portfolio/prewedding/DSC00923A.jpg" alt="Behind the lens" />
               <div className="philosophy-img-accent" />
             </motion.div>
 
@@ -191,7 +191,7 @@ const About = () => {
       {/* ====== CTA ====== */}
       <section className="about-cta">
         <div className="about-cta-bg">
-          <img src="https://images.unsplash.com/photo-1537651717462-8e7c10b271d4?auto=format&fit=crop&q=80&w=2000" alt="CTA" />
+          <img src="/portfolio/baby-shoots/IMG_8071.JPG" alt="CTA" />
           <div className="about-cta-overlay" />
         </div>
         <div className="container">
